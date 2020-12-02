@@ -14,8 +14,9 @@ Teste automatizado simples utilizando Selenium com python.
 * Fechar o navegador.
 
 # Quais tecnologia são utilizada?
-* Python (ncessário python instalado) [Python](https://www.python.org/downloads/)
-* Selenium (automação de browsers).
+* Python (ncessário python instalado) ([Download Python](https://www.python.org/downloads/))
+* Selenium (automação de browsers)   
+* Google Chrome ([Download Chrome](https://www.google.com/intl/pt-BR/chrome/))
 
 # Como rodar?
 Instale a dependência do selenium no python:
