@@ -18,7 +18,7 @@ Teste automatizado simples utilizando Selenium com python.
 * Selenium (automação de browsers).
 
 # Como rodar?
-Instale as dependências com o python instalado utilize os comandos:
+Instale a dependência do selenium no python:
 * `pip install selenium`
 
 E rode com:
